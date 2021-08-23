@@ -1,5 +1,5 @@
 # Myfind
-Personal recreation of find UNIX program using C99.
+Personal recreation in 1 week of find UNIX program using C99.
 
 ## Using
 - `make` to clean trash files and compile myfind
